@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nvnktrl&label=Profile%20views&color=0e75b6&style=flat" alt="nvnktrl" /> </p>
 
-- 🌱 I’m currently wroking as a Senior Data Analyst**
+- 🌱 I’m currently working as a Senior Data Analyst**
 
 - 🤝 I’m looking for contributing to **python based open source projects**
 
